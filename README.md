@@ -16,6 +16,7 @@ julia> ]add Plots
 julia = "~1.1"
 ```
 The configuration will limit the version to be 1.1 <= version <= 1.2. See [Compatibility](https://julialang.github.io/Pkg.jl/v1/compatibility/) for informations.
+
 4. Create your notebook by using Jupyter.
 5. Copy the URL of the Github repo into Binder.
 6. Done.
